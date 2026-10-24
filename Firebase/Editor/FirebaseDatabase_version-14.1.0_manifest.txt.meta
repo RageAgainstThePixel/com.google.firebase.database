@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 627225276f5541d183d8ddc8d8c7a634
+guid: 88324abe80d9456690b0712f8c41f36c
 labels:
 - gvh
 - gvh_manifest
-- gvh_version-13.17.1
-- gvhp_exportpath-Firebase/Editor/FirebaseDatabase_version-13.17.1_manifest.txt
+- gvh_version-14.1.0
+- gvhp_exportpath-Firebase/Editor/FirebaseDatabase_version-14.1.0_manifest.txt
 - gvhp_manifestname-0Firebase Realtime Database
 - gvhp_manifestname-1FirebaseDatabase
 timeCreated: 0
